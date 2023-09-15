@@ -9,11 +9,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@anthony.puitiza.02](https://medium.com/@anthony.puitiza.02)
 
-- 💬 Ask me about **Spring Book, Kafka, deploys**
+- 💬 Ask me about **Spring Boot, Kafka, deploys**
 
 - 📫 How to reach me **anthony.puitiza.02@gmail.com**
 
-- 📄 Know about my experiences [I started more than 5 years ago as a software developer, and during this time, I have worked on various systems, including web and mobile development (Android and iOS). Currently, I specialize as a Java software engineer, focusing on developing, testing, and maintaining software applications using the Java programming language. My expertise lies in writing efficient code and troubleshooting and debugging software issues. I actively collaborate with cross-functional teams, participate in code reviews, and ensure software quality through rigorous testing and documentation.](I started more than 5 years ago as a software developer, and during this time, I have worked on various systems, including web and mobile development (Android and iOS). Currently, I specialize as a Java software engineer, focusing on developing, testing, and maintaining software applications using the Java programming language. My expertise lies in writing efficient code and troubleshooting and debugging software issues. I actively collaborate with cross-functional teams, participate in code reviews, and ensure software quality through rigorous testing and documentation.)
+- 📄 Know about my experiences [https://www.linkedin.com/in/anthony-puitiza-a3b508134/](https://www.linkedin.com/in/anthony-puitiza-a3b508134/)
 
 - ⚡ Fun fact **I love playing videogames on PC or Playstation but whenever I can travel I do, meet new places and people.**
 
